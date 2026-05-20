@@ -1,0 +1,12 @@
+{
+  "name": "skills",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "fmt": "oxfmt"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.51.0"
+  },
+  "packageManager": "pnpm@11.1.3"
+}
